@@ -4,7 +4,7 @@ A Data Mining and Visualization project to analyze factors that affects happines
 
 # Workflow
 ## Data Collection
-[Happiness and Corruption 2015-2020](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package) from Kaggle
+[Happiness and Corruption 2015-2020] (https://www.kaggle.com/datasets/eliasturk/world-happiness-based-on-cpi-20152020) from Kaggle
 
 ## Data Preprocessing
 1. Clean out missing data
