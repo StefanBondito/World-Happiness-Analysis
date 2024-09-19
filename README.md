@@ -15,4 +15,4 @@ A Data Mining and Visualization project to analyze factors that affects happines
 5. Compare the models with their metrics (R-Square, MSE, MAE)
 
 ## Model
-We trained 3 models which are Linear Regression, Logistic Regression, Robust Regression  to find the best one. 
+We trained 3 models which are Linear Regression, Logistic Regression, Robust Regression  to find the best one. The model with the highest R-Square value and or lowest RMSE and MSE score would be considered as the perfect model.
