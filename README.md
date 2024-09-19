@@ -1,4 +1,4 @@
-# World-Happiness-Regression-Analysis
+# World-Happiness-and-Corruption-Regression-Analysis
 ![dataset-cover](https://github.com/user-attachments/assets/88720d4a-91ff-43ba-b780-16ac30054bbb)
 
 A Data Mining and Visualization project to analyze factors that affects happiness of the world population using World Happiness. After that, the models used will be compared using R-Square and Residual Standard Error.
